@@ -13,3 +13,6 @@
 店長(シフト編集者)→従業員番号：9999 パスワード：guest
 
 ログインに成功したらページ下部の「使い方」から案内をご覧ください。
+
+# URL
+http://www1.sken.biz/~tsuchiya203/songju/shift/toyoman/login.php
